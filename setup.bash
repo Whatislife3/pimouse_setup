@@ -1,4 +1,5 @@
 #!/bin/bash
+#llllllllllll
 
 exec 2> /tmp/setup.log
 
